@@ -1,0 +1,13 @@
+## Interface: 30401
+## Title: Scambuster-Faerlina
+## Notes: Extension for Scambuster packaging Faerlina realm data
+## Author: Xius
+## Version: 1.0.0
+## DefaultState: enabled
+## Dependencies: Scambuster
+## X-Curse-Project-ID: 
+
+LibStub.lua
+settings.lua
+list.lua
+core.lua
