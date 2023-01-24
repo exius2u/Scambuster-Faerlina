@@ -9,37 +9,37 @@ t.case_table = {
 		description = "Was tried and found Guilty in the Faerlina Discord court system. Exact offense detailed in the provided link.",
 		url = "https://discord.com/channels/757975796249002118/956696638829764677",
 	},
-	[0] = {
+	[1] = {
 		name = "Fearclapu",
 		category = "gdkp",
 		description = "Was tried and found Guilty in the Faerlina Discord court system. Exact offense detailed in the provided link.",
 		url = "https://discord.com/channels/757975796249002118/956696638829764677",
 	},
-		[0] = {
+	[2] = {
 		name = "Kinkyssham",
 		category = "gdkp",
 		description = "Was tried and found Guilty in the Faerlina Discord court system. Exact offense detailed in the provided link.",
 		url = "https://discord.com/channels/757975796249002118/956696638829764677",
 	},
-		[0] = {
+	[3] = {
 		name = "Minipojkejr",
 		category = "gdkp",
 		description = "Was tried and found Guilty in the Faerlina Discord court system. Exact offense detailed in the provided link.",
 		url = "https://discord.com/channels/757975796249002118/956696638829764677",
 	},
-		[0] = {
+	[4] = {
 		name = "Kinkyspriest",
 		category = "gdkp",
 		description = "Was tried and found Guilty in the Faerlina Discord court system. Exact offense detailed in the provided link.",
 		url = "https://discord.com/channels/757975796249002118/956696638829764677",
 	},
-		[0] = {
+	[5] = {
 		name = "Kinkysccbot",
 		category = "gdkp",
 		description = "Was tried and found Guilty in the Faerlina Discord court system. Exact offense detailed in the provided link.",
 		url = "https://discord.com/channels/757975796249002118/956696638829764677",
 	},
-		[0] = {
+	[6] = {
 		name = "Kinkyswarr",
 		category = "gdkp",
 		description = "Was tried and found Guilty in the Faerlina Discord court system. Exact offense detailed in the provided link.",
