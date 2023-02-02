@@ -1013,21 +1013,21 @@ t.case_table = {
         description = " refuses to award MS loot to the winner of the roll because he died during encounter",
         url = "https://discord.com/channels/757975796249002118/1069066424661848066",  
     },	
-	[143] = {
+	[144] = {
 	    name = "Namichann",
 		faction = "Horde",
         category = "raid",
         description = "Loots Iris to the incorrect winner of a roll, does not attempt to correct or apologize",
         url = "https://discord.com/channels/757975796249002118/1070005688258019328",  
     },	
-	[143] = {
+	[145] = {
 	    name = "Guinevare",
 		faction = "Horde",
         category = "raid",
         description = "gives melee DPS chest to hunter to has the lowest roll on it",
         url = "https://discord.com/channels/757975796249002118/1070327105080000512",  
     },	
-	[143] = {
+	[146] = {
 	    name = "Nnyx",
 		faction = "Horde",
         category = "trade",
