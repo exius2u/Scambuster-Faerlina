@@ -1030,7 +1030,7 @@ t.case_table = {
 	[146] = {
 	    name = "Nnyx",
 		faction = "Horde",
-        category = "trade",
+        category = "raid",
         description = "randomly given raid lead after the original RL leaves the group mid-way through Naxxramas. Once assigned lead, he changes the loot rules from SR>MS>OS no HR to SR>MS>OS with the Sapph neck HR. There were already multiple SRs on the neck. Takes item for himself even though someone did roll on the item.",
         url = "https://discord.com/channels/757975796249002118/1070209711531626557",  
     },
