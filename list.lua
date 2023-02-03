@@ -755,7 +755,7 @@ t.case_table = {
         url = "https://discord.com/channels/757975796249002118/1050495446096814141",  
     },	
 	[107] = {
-	    name = "Skulled ",
+	    name = "Skulled",
 		faction = "Horde",
         category = "gdkp",
         description = "RL/ML combo in a pug that gives loot to player who does not win roll and does nothing to fix the problem",
@@ -916,7 +916,7 @@ t.case_table = {
         url = "https://discord.com/channels/757975796249002118/1064699987285512253",  
     },	
 	[130] = {
-	    name = "Sarinhah ",
+	    name = "Sarinhah",
 		faction = "Horde",
         category = "dungeon",
         description = "refuses to heal last boss of heroic+ because he doesn't read that bag is HR, when he's kicked for refusing to heal he intentionally pulls boss to wipe raid multiple times, hijacks the lockout, invites his own people and takes the last boss loot for his own benefit",
@@ -958,14 +958,14 @@ t.case_table = {
         url = "https://discord.com/channels/757975796249002118/1067538750525161534",  
     },	
 	[136] = {
-	    name = "Avyanaly ",
+	    name = "Avyanaly",
 		faction = "Horde",
         category = "raid",
         description = "Saves a tank to a failed naxx after reneging on a SR on Wall of Terror",
         url = "https://discord.com/channels/757975796249002118/1068245350726508675",  
     },	
 	[137] = {
-	    name = "Omegakarren ",
+	    name = "Omegakarren",
 		faction = "Horde",
         category = "raid",
         description = "Saves a tank to a failed naxx after reneging on a SR on Wall of Terror",
@@ -1033,4 +1033,5 @@ t.case_table = {
         category = "raid",
         description = "randomly given raid lead after the original RL leaves the group mid-way through Naxxramas. Once assigned lead, he changes the loot rules from SR>MS>OS no HR to SR>MS>OS with the Sapph neck HR. There were already multiple SRs on the neck. Takes item for himself even though someone did roll on the item.",
         url = "https://discord.com/channels/757975796249002118/1070209711531626557",  
-    }
+	}
+}
