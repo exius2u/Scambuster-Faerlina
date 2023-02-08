@@ -1110,6 +1110,7 @@ t.case_table = {
         description = "bsteals another player's SR and logs off with it",
         url = "https://discord.com/channels/757975796249002118/1072206152663846952",  
 	}
+    },	
 	[157] = {
 	name = "Duckïes",
 	faction = "Horde",
