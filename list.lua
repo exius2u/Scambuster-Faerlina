@@ -1061,5 +1061,60 @@ t.case_table = {
         category = "trade",
         description = "boosted level 70 that scams people's crafting mats.",
         url = "https://discord.com/channels/757975796249002118/1071590207821979688",  
+	}    
+    },	
+	[151] = {
+	name = "Zólo",
+	faction = "Horde",
+        category = "trade",
+        description = "rolls MS on T7 gloves he's already wearing",
+        url = "https://discord.com/channels/757975796249002118/1071935333094150204",  
+	}
+    },	
+	[152] = {
+	name = "Sòlo",
+	faction = "Horde",
+        category = "raid",
+        description = "rolls MS on T7 gloves he's already wearing",
+        url = "https://discord.com/channels/757975796249002118/1071935333094150204",  
+	}
+    },	
+	[153] = {
+	name = "Leßron",
+	faction = "Horde",
+        category = "raid",
+        description = "ninja loots all Flame Leviathan loot in Ulduar and sneaks a fragment to a random priest he may associate with before bailing",
+        url = "https://discord.com/channels/757975796249002118/1072016974818852865",  
+	}
+    },	
+	[154] = {
+	name = "Wenlor",
+	faction = "Horde",
+        category = "raid",
+        description = "refuses to roll off Super Simian Sphere in a pug and keeps it for himself",
+        url = "https://discord.com/channels/757975796249002118/1072019033098047499",  
+	}
+    },	
+	[155] = {
+	name = "Colton",
+	faction = "Horde",
+        category = "gdkp",
+        description = "Him and his GDKP community consistently showing up in court for terrible leading, bad attitudes, vulgar language toward others, and Colton himself has previously ninja looted. Avoid this group when looking for a GDKP pug.",
+        url = "https://discord.com/channels/757975796249002118/1072526951077654639",  
+	}
+    },	
+	[156] = {
+	name = "Zipil",
+	faction = "Horde",
+        category = "trade",
+        description = "bsteals another player's SR and logs off with it",
+        url = "https://discord.com/channels/757975796249002118/1072206152663846952",  
+	}
+	[157] = {
+	name = "Duckïes",
+	faction = "Horde",
+        category = "trade",
+        description = "bsteals another player's SR and logs off with it",
+        url = "https://discord.com/channels/757975796249002118/1072206152663846952",  
 	}
 }
