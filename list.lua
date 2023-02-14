@@ -1046,14 +1046,13 @@ t.case_table = {
     url = "https://discord.com/channels/757975796249002118/1073044315976237126",  
     },	
 	[128] = {
-	name = "Sinalgas",
-	aliases = "Toroloco",
-	level = "3",
+	name = "Shattercrits",
+	level = "2",
 	faction = "Horde",
-    category = "trade",
-    description = "Loots item to wrong person, refuses to correct the problem and leaves",
-    url = "https://discord.com/channels/757975796249002118/1073369677520179210",  
-    },
+    category = "raid",
+    description = "creates a toxic pug raid environment by using vulgar language toward another player, potentially ruining the group",
+    url = "https://discord.com/channels/757975796249002118/1072526951077654639",  
+    }	
 	[129] = {
 	name = "Skillesz",
 	level = "2",
@@ -1247,13 +1246,5 @@ t.case_table = {
     category = "raid",
     description = "bails on an SR+1 Ulduar pug after winning all his reserved gear and a MS piece.",
     url = "https://discord.com/channels/757975796249002118/1071683024724447283",  
-    },	
-	[153] = {
-	name = "Shattercrits",
-	level = "2",
-	faction = "Horde",
-    category = "raid",
-    description = "creates a toxic pug raid environment by using vulgar language toward another player, potentially ruining the group",
-    url = "https://discord.com/channels/757975796249002118/1072526951077654639",  
-    }	
+    }
 }
