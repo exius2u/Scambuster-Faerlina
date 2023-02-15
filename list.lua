@@ -1052,7 +1052,7 @@ t.case_table = {
     category = "raid",
     description = "creates a toxic pug raid environment by using vulgar language toward another player, potentially ruining the group",
     url = "https://discord.com/channels/757975796249002118/1072526951077654639",  
-    }	
+    },
 	[129] = {
 	name = "Skillesz",
 	level = "2",
@@ -1246,5 +1246,13 @@ t.case_table = {
     category = "raid",
     description = "bails on an SR+1 Ulduar pug after winning all his reserved gear and a MS piece.",
     url = "https://discord.com/channels/757975796249002118/1071683024724447283",  
+    },
+	[153] = {
+	name = "Tigerbloodmd",
+	level = "3",
+	faction = "Horde",
+    category = "raid",
+    description = "doesn't give player the item they soft reserved, when asked claims they wouldn't give an item to a non English speaker and kicks them after spouting some bigoted comments.",
+    url = "https://discord.com/channels/757975796249002118/1074798299393044530",  
     }
 }
