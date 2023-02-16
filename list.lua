@@ -1,5 +1,9 @@
+local _, t = ...
+
 -- Faerlina Discord Blocklist Table, Available Categories are: "dungeon", "raid", "trade", "gdkp", "harassment"
+
 local defaultDescription = "Was tried and found Guilty in the Faerlina Discord court system. Exact offense detailed in the provided link."
+
 t.case_table = {
 	[0] = {
     name = "Gamezero",
