@@ -909,7 +909,7 @@ t.case_table = {
     },	
 	[110] = {
 	name = "Pinpier",
-	aliases = "Deathpin",
+	aliases = {"Deathpin", "Berivan"}
 	level = "3",
 	faction = "Horde",
     category = "raid",
