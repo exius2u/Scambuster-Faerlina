@@ -1578,7 +1578,25 @@ t.case_table = {
     description = "Pays 2-3 people at the end of a GDKP and logs off with the remainder of the pot.",
     url = "https://discord.com/channels/757975796249002118/1100075184595140608",
     },
-	[193] = {
+	[193]= {
+	name = "Froggÿ",
+	aliases = "Ørdër",
+	level = "2",
+	faction = "Horde",
+    category = "raid",
+    description = "Adds SR after item drops in run, gives himself an extra SR, dual boxes without advising raid during immortal run, tries to hide added SR by hiding all SRs, lies in court thread about un-hiding the SRs the day before. Agreed to be finished with RL/Dual boxing. Advised any further guilty court cases would result in a permanent blacklist with no chance for appeal.",
+    url = "https://discord.com/channels/757975796249002118/1090891308010319964",  
+    },
+	[194]= {
+	name = "Rossweizze",
+	aliases = "Szheccid",
+	level = "2",
+	faction = "Horde",
+    category = "raid",
+    description = "Drops raid/hearths after payment for a full Naxx carry. Misread the price and did not listen to RL when told he was mistaken.",
+    url = "https://discord.com/channels/757975796249002118/1095399858967425025",  
+    },
+	[195] = {
 	name = "Tigerbloodmd",
 	level = "3",
 	faction = "Horde",
