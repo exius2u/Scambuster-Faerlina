@@ -1448,6 +1448,7 @@ t.case_table = {
     },
 	[177]= {
 	name = "Lilgaydubs",
+	aliases = "btdubs",
 	level = "2",
 	faction = "Horde",
     category = "raid",
@@ -1657,7 +1658,7 @@ t.case_table = {
     },
 	[202]= {
 	name = "Stallizedk",
-	aliases = {"Brondoyle"},
+	aliases = "Brondoyle",
 	level = "3",
 	faction = "Horde",
     category = "raid",
@@ -1703,6 +1704,31 @@ t.case_table = {
     category = "raid",
     description = "Lead a Naxx 10, deleted an SR twice and tried to pull the boss without saying anything about doing so, then refused to honor an os roll and took wall of terror for themselves.",
     url = "https://discord.com/channels/757975796249002118/1116131332402204792",  
+    },
+	[208]= {
+	name = "Haybuza",
+	level = "3",
+	faction = "Horde",
+    category = "raid",
+    description = "Logs off before paying remaining raid members out for GDKP after only paying three people",
+    url = "https://discord.com/channels/757975796249002118/1121911367910305985",  
+    },
+	[209]= {
+	name = "Zaravanthvia",
+	level = "3",
+	faction = "Horde",
+    category = "raid",
+    description = "rolls twice on an item and attempts to sell to winner when wrongly awarded",
+    url = "https://discord.com/channels/757975796249002118/956696638829764677/1123649273800708206",  
+    },
+	[210]= {
+	name = "Zetalock",
+	aliases = "linustian",
+	level = "3",
+	faction = "Horde",
+    category = "raid",
+    description = "Sells someone a all-caster loot Naxx ticket run and refuses to give him Dying Curse. Takes it for himself instead.",
+    url = "https://discord.com/channels/757975796249002118/1125648386880712724",  
     },
 	[208] = {
 	name = "Tigerbloodmd",
