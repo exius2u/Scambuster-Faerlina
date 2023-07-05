@@ -450,7 +450,7 @@ t.case_table = {
     },
 	[55] = {
     name = "Colinpp",
-	level = "3",
+	level = "2",
 	faction = "Horde",
     category = "raid",
     description = "Accused not handing out the SR to the correct person. Ran a SR Sunwell Plateau, when the Legguards of Immortal Night dropped there was only 1 SR - did not trade it. In DMs confirmed that even if 1 person SR'ed they had to roll or would be refused loot.",
@@ -1234,12 +1234,12 @@ t.case_table = {
     url = "https://discord.com/channels/757975796249002118/1070811114490826823",  
     },	
 	[151] = {
-	name = "Drykan",
+	name = "Alistardruid",
 	level = "2",
 	faction = "Horde",
     category = "raid",
-    description = "did not honor MS roll in Ulduar 10 pug",
-    url = "https://discord.com/channels/757975796249002118/1070923093566050425",  
+    description = "Misloots ToC25 gear to someone who rolled twice",
+    url = "https://discord.com/channels/757975796249002118/1123055690689298545",  
     },	
 	[152] = {
 	name = "Tamemedaddy",
@@ -1307,23 +1307,14 @@ t.case_table = {
     url = "https://discord.com/channels/757975796249002118/1080190590299422740/1080190590299422740",  
     },
 	[160]= {
-	name = "Rehkz",
-	aliases = "Rehkuhgnize",
+	name = "Ofans",
 	level = "2",
 	faction = "Horde",
     category = "raid",
-    description = "Incorrectly looted to a member in the raid without rolling while the raid was falling apart. Name changed the character after a ticket was filed in the discord, beware.",
-    url = "https://discord.com/channels/757975796249002118/1083232946028302446/1083232946028302446",  
+    description = "looting item to someone who rolled twice instead of winner",
+    url = "https://discord.com/channels/757975796249002118/1002410338949529650/1123649370542317709",  
     },
 	[161]= {
-	name = "Dragonpalkon",
-	level = "2",
-	faction = "Horde",
-    category = "raid",
-    description = "Rolled off SR'd pieces in a run as FR and looted an SR'd piece to the wrong person. Sloppy raid leading by ignoring raid messages and DM's about the loot.",
-    url = "https://discord.com/channels/757975796249002118/1083834107697582230",  
-    },
-	[162]= {
 	name = "Cyanidebyte",
 	aliases = "Cyanidebit",
 	level = "3",
@@ -1332,7 +1323,7 @@ t.case_table = {
     description = "After being previously brownlisted a month ago, he shows up in another court case where he managed to slowly drain a previous guild's gbank tab over the course of a few days/weeks, taking multiple enchants/crafting items before gquitting.",
     url = "https://discord.com/channels/757975796249002118/1080563269657448458",  
     },
-	[163]= {
+	[162]= {
 	name = "Showcritzs",
 	aliases = "Fearedlock",
 	level = "3",
@@ -1341,7 +1332,7 @@ t.case_table = {
     description = "Took a GDKP pot worth over 200k; any claim of sending cuts through the mail never materialized. Ignores anyone reaching out to him and is believed to be attempting a server transfer to Benediction",
     url = "https://discord.com/channels/757975796249002118/1082400205820940288/1082400205820940288",  
     },
-	[164]= {
+	[163]= {
 	name = "Giftdk",
 	level = "3",
 	faction = "Horde",
@@ -1349,7 +1340,7 @@ t.case_table = {
     description = "Harassing members of the raid throughout the EoE, stopped anyone from being able to loot the chest until kicked which led the chest to disappear with the loot.",
     url = "https://discord.com/channels/757975796249002118/1082553789887819849/1082553789887819849",  
     },
-	[165]= {
+	[164]= {
 	name = "Harukara",
 	level = "3",
 	faction = "Horde",
@@ -1357,7 +1348,7 @@ t.case_table = {
     description = "Needed on an item they already had (Leash) in EOE when the RL forgot to put ML on. When asked to hand over the item for it to be rolled tried to sell it for 500g. ",
     url = "https://discord.com/channels/757975796249002118/1082757636690292826",  
     },
-	[166]= {
+	[165]= {
 	name = "Axolotir",
 	level = "3",
 	faction = "Horde",
@@ -1365,7 +1356,7 @@ t.case_table = {
     description = "Rolls need on all loot in OS pug when ML is accidentally not turned on and leaves with 3 items. After, he tells RL he will give back cloth bracers, but only if he gets 600g for them.",
     url = "https://discord.com/channels/757975796249002118/1083072462998216704",  
     },
-	[167]= {
+	[166]= {
 	name = "Neverdies",
 	level = "3",
 	faction = "Horde",
@@ -1373,7 +1364,7 @@ t.case_table = {
     description = "Rolled on a piece of loot that was Sr'd, ignored multiple whispers about the piece, equipped and logged out. ",
     url = "https://discord.com/channels/757975796249002118/1083834107697582230",  
     },
-	[168]= {
+	[167]= {
 	name = "Naxxarat",
 	aliases = {"Tfreddy", "Streboll"},
 	level = "3",
@@ -1382,7 +1373,7 @@ t.case_table = {
     description = "Multiple small claims and complaints against this user. Uses multiple aliases in the same run, takes pots, needs loot in runs for fun over people who actually need gear. Has been doing shady things since TBC.",
     url = "https://discord.com/channels/757975796249002118/1083913242734252164",  
     },
-	[169]= {
+	[168]= {
 	name = "Bloodcurl",
 	level = "3",
 	faction = "Horde",
@@ -1390,7 +1381,7 @@ t.case_table = {
     description = "Takes loot item he does not win the roll on, pretends like he can't trade it, and logs off with it. States he does not care if he is blacklisted.",
     url = "https://discord.com/channels/757975796249002118/1086303848752222238",  
     },
-	[170]= {
+	[169]= {
 	name = "Rammadin",
 	level = "3",
 	faction = "Horde",
@@ -1398,7 +1389,7 @@ t.case_table = {
     description = " Invites mage to an SR Ulduar pug where mage wins T8 gloves as the only SR on them. RL suddenly changes loot rules, refuses to give the gloves until the end of raid and then kicks the mage when he does not do Yogg mechanics correct after 1 attempt. Tries to lie about mage intentionally griefing with rocket boots when video provided proves he was not. Gives mage's SR to another raid member instead after kicking the mage.",
     url = "https://discord.com/channels/757975796249002118/1086510230411673630",  
     },
-	[171]= {
+	[170]= {
 	name = "Geronovandil",
 	level = "3",
 	faction = "Horde",
@@ -1406,7 +1397,7 @@ t.case_table = {
     description = "hispers a player after they are removed from a pug with vulgar language telling the person to cause self harm.",
     url = "https://discord.com/channels/757975796249002118/1086510230411673630",  
     },
-	[172]= {
+	[171]= {
 	name = "Swervó",
 	level = "3",
 	faction = "Horde",
@@ -1414,23 +1405,7 @@ t.case_table = {
     description = "Steals an entire P1 world tour GDKP pot. User has either name changed or server transferred since.",
     url = "https://discord.com/channels/757975796249002118/1090350842156171484",  
     },
-	[173]= {
-	name = "Soulshanks",
-	level = "2",
-	faction = "Horde",
-    category = "raid",
-    description = "Looted PVP belt to himself without rolling it off. Was not HR'd",
-    url = "https://discord.com/channels/757975796249002118/1085250087128678481",  
-    },
-	[174]= {
-	name = "Sanglock",
-	level = "2",
-	faction = "Horde",
-    category = "raid",
-    description = "Kicked 3 pug members from the raid after the boss died and only invited 1 back to roll on loot. ",
-    url = "https://discord.com/channels/757975796249002118/1086306730067099679",  
-    },
-	[175]= {
+	[172]= {
 	name = "Yogrampz",
 	level = "2",
 	faction = "Horde",
@@ -1438,15 +1413,31 @@ t.case_table = {
     description = "Takes loot from a mage who was owed the item due to an SR. Instead, mage was kicked and item was wrongly given to him. Yograpmz offered to trade the token to the mage, then decided to renege on the offer and keep them for himself.",
     url = "https://discord.com/channels/757975796249002118/1086510230411673630",  
     },
-	[176]= {
-	name = "Laploogs",
+	[171]= {
+	name = "Màrisa",
 	level = "2",
 	faction = "Horde",
     category = "raid",
-    description = "Ignores roll in VOA",
-    url = "https://discord.com/channels/757975796249002118/1087613991750209546",  
+    description = "Rolls need on tank trinket for OS in a MS>OS Ulduar run even after being told the item was for tanks only. Refused to trade the item to the tank",
+    url = "https://discord.com/channels/757975796249002118/1125493531109244938",  
     },
-	[177]= {
+	[172]= {
+	name = "Bowceefus",
+	level = "2",
+	faction = "Horde",
+    category = "raid",
+    description = "Back filling a raid without properly communicating an item was HR’d. Had proof they dm'd every pug but OP",
+    url = "https://discord.com/channels/757975796249002118/1125815415038283899",  
+    },
+	[173]= {
+	name = "Sukâ",
+	level = "2",
+	faction = "Horde",
+    category = "raid",
+    description = "Back filling a raid without properly communicating an item was HR’d. Had proof they dm'd every pug but OP",
+    url = "https://discord.com/channels/757975796249002118/1125815415038283899",  
+    },
+	[174]= {
 	name = "Lilgaydubs",
 	aliases = "btdubs",
 	level = "2",
@@ -1455,7 +1446,7 @@ t.case_table = {
     description = "Leads an Ulduar SR pug where he changes his SR 3+ times as soon as a boss doesn't drop what he previously reserved. Finally gets called out and goes radio silent and tells people he will let others roll on his last SR. User is trying to server hop to Benediction. Mods/Admin have been alerted.",
     url = "https://discord.com/channels/757975796249002118/1089909375679860796",  
     },
-	[178] = {
+	[175] = {
     name = "Leadpipedk",
 	aliases = {"leadpipegang", "leadpiper", "leadpipeman"},
 	faction = "Horde",
@@ -1464,7 +1455,7 @@ t.case_table = {
     description = "Takes ID for a 2 day raid hostage, attempts to steal ID and causes original group to have to cancel/lose their remaining lockout",
     url = "https://discord.com/channels/757975796249002118/1090847339167617044",
     },
-	[179] = {
+	[176] = {
     name = "Luzzionsh",
 	aliases = "Purchasee",
 	faction = "Horde",
@@ -1473,7 +1464,7 @@ t.case_table = {
     description = "Steals a P1 World GDKP Tour pot at the end of the run",
     url = "https://discord.com/channels/757975796249002118/1090790651777531964",
     },
-	[180] = {
+	[177] = {
     name = "Dàmyén ",
 	faction = "Horde",
 	level = "3",
@@ -1481,7 +1472,7 @@ t.case_table = {
     description = "Equips LL in a SR>MS>OS run when it was SR by someone else.",
     url = "https://discord.com/channels/757975796249002118/1090793197111873616",
     },
-	[181] = {
+	[178] = {
     name = "Drhotstreak",
 	aliases = {"Drbloodlust", "Drstarfall", "Drpenance"},
 	faction = "Horde",
@@ -1490,7 +1481,7 @@ t.case_table = {
     description = "Ninjas Pennant Cloak after losing the SR roll",
     url = "https://discord.com/channels/757975796249002118/1091879844557623298",
     },
-	[182] = {
+	[179] = {
     name = "Lluonyichan",
 	faction = "Horde",
 	level = "3",
@@ -1498,7 +1489,7 @@ t.case_table = {
     description = "Intentionally loots SR item to loser of the roll",
     url = "https://discord.com/channels/757975796249002118/1091943194717073548",
     },
-	[183] = {
+	[180] = {
     name = "Evamorá",
 	faction = "Horde",
 	level = "3",
@@ -1506,7 +1497,7 @@ t.case_table = {
     description = "Doesn't allow others to roll on soft reserved Betrayer of Humanity, loots to themselves",
     url = "https://discord.com/channels/757975796249002118/1093263027765256272/1093263027765256272",
     },
-	[184] = {
+	[181] = {
     name = "Äsgard",
 	faction = "Horde",
 	level = "3",
@@ -1514,7 +1505,7 @@ t.case_table = {
     description = "Ninjas non-SR’d loot from Naxx (Strong-handed ring)",
     url = "https://discord.com/channels/757975796249002118/1092891060881064058",
     },
-	[185] = {
+	[182] = {
     name = "Merlinwhite",
 	aliases = "Rudeboyz",
 	faction = "Horde",
@@ -1523,7 +1514,7 @@ t.case_table = {
     description = "Steals a 90k+ GDKP pot at the end of the run.  Transfers off later that night.",
     url = "https://discord.com/channels/757975796249002118/1095131480163876944",
     },
-	[186] = {
+	[183] = {
     name = "Faeralyssa",
 	faction = "Horde",
 	level = "3",
@@ -1531,7 +1522,7 @@ t.case_table = {
     description = "Rolls and wins a T8 chest as a Warlock in MS>OS run, but is already wearing the same T8 chest. Does not return or trade to 2nd highest roll",
     url = "https://discord.com/channels/757975796249002118/1097287795124473897",
     },
-	[187] = {
+	[184] = {
     name = "Minothour",
 	faction = "Horde",
 	level = "3",
@@ -1539,7 +1530,7 @@ t.case_table = {
     description = "Steals GDKP pot at the end of run",
     url = "https://discord.com/channels/757975796249002118/1097499710304030790",
     },
-	[188] = {
+	[185] = {
     name = "Mageforhire",
 	faction = "Horde",
 	level = "3",
@@ -1547,7 +1538,7 @@ t.case_table = {
     description = "Racists/Anti-Semitic/Transphobic language.",
     url = "https://discord.com/channels/757975796249002118/1096450263759458446/1096450263759458446",
     },
-	[189] = {
+	[186] = {
     name = "Lokamor",
 	faction = "Horde",
 	level = "3",
@@ -1555,7 +1546,7 @@ t.case_table = {
     description = "Racists/Anti-Semitic/Transphobic language.",
     url = "https://discord.com/channels/757975796249002118/1096450263759458446/1096450263759458446",
     },
-	[190] = {
+	[187] = {
     name = "Katiebubbles",
 	faction = "Horde",
 	level = "3",
@@ -1563,7 +1554,7 @@ t.case_table = {
     description = "Racists/Anti-Semitic/Transphobic language.",
     url = "https://discord.com/channels/757975796249002118/1096450263759458446/1096450263759458446",
     },
-	[191] = {
+	[188] = {
     name = "Shoyòstróng ",
 	faction = "Horde",
 	level = "3",
@@ -1571,7 +1562,7 @@ t.case_table = {
     description = "P1 WT GDKP pot theft",
     url = "https://discord.com/channels/757975796249002118/1099359044973629573",
     },
-	[192] = {
+	[189] = {
     name = "Nàtsù  ",
 	faction = "Horde",
 	level = "3",
@@ -1579,25 +1570,7 @@ t.case_table = {
     description = "Pays 2-3 people at the end of a GDKP and logs off with the remainder of the pot.",
     url = "https://discord.com/channels/757975796249002118/1100075184595140608",
     },
-	[193]= {
-	name = "Froggÿ",
-	aliases = "Ørdër",
-	level = "2",
-	faction = "Horde",
-    category = "raid",
-    description = "Adds SR after item drops in run, gives himself an extra SR, dual boxes without advising raid during immortal run, tries to hide added SR by hiding all SRs, lies in court thread about un-hiding the SRs the day before. Agreed to be finished with RL/Dual boxing. Advised any further guilty court cases would result in a permanent blacklist with no chance for appeal.",
-    url = "https://discord.com/channels/757975796249002118/1090891308010319964",  
-    },
-	[194]= {
-	name = "Rossweizze",
-	aliases = "Szheccid",
-	level = "2",
-	faction = "Horde",
-    category = "raid",
-    description = "Drops raid/hearths after payment for a full Naxx carry. Misread the price and did not listen to RL when told he was mistaken.",
-    url = "https://discord.com/channels/757975796249002118/1095399858967425025",  
-    },
-	[195]= {
+	[190]= {
 	name = "Gleado",
 	level = "2",
 	faction = "Horde",
@@ -1605,7 +1578,7 @@ t.case_table = {
     description = "P1 WT GDKP pot stolen at the end of the run",
     url = "https://discord.com/channels/757975796249002118/1105820655380856892",  
     },
-	[196]= {
+	[191]= {
 	name = "Hazellsqui",
 	aliases = {"Hazelnutt", "fuzyy", "hazelpaly", "zelbannkk"},
 	level = "2",
@@ -1614,7 +1587,7 @@ t.case_table = {
     description = "Taking an estimated 30k pot from a world tour GDKP",
     url = "https://discord.com/channels/757975796249002118/1102613044925837424",  
     },
-	[197]= {
+	[192]= {
 	name = "Tbagkeitsh",
 	level = "2",
 	faction = "Horde",
@@ -1622,7 +1595,7 @@ t.case_table = {
     description = "GDKP pot theft at the end of the run",
     url = "https://discord.com/channels/757975796249002118/1105652011162144768",  
     },
-	[198]= {
+	[193]= {
 	name = "Xkurro",
 	level = "2",
 	faction = "Horde",
@@ -1630,7 +1603,7 @@ t.case_table = {
     description = "GDKP pot scammer",
     url = "https://discord.com/channels/757975796249002118/1106432338755342386",  
     },
-	[199]= {
+	[194]= {
 	name = "Skullghos",
 	level = "3",
 	faction = "Horde",
@@ -1638,7 +1611,7 @@ t.case_table = {
     description = "Rolled need on soft reserved loot while it was left on group loot. ",
     url = "https://discord.com/channels/757975796249002118/1102612028109094983",  
     },
-	[200]= {
+	[195]= {
 	name = "Bossmob",
 	aliases = "Hvy",
 	level = "3",
@@ -1647,7 +1620,7 @@ t.case_table = {
     description = "Lead a 10m Ulduar mostly-guild run with 2 pugs. Changed org fee from 10 to 15% without notice, skimmed pot, lied about activating Thorim when 0 light was the plan, shady MS/OS pricing issues on gear.",
     url = "https://discord.com/channels/757975796249002118/1103656011161673728",  
     },
-	[201]= {
+	[196]= {
 	name = "Devilhub",
 	aliases = {"Dodgemyshred", "Darkhub"},
 	level = "3",
@@ -1656,7 +1629,7 @@ t.case_table = {
     description = "Co-lead a 10m Ulduar mostly-guild run with 2 pugs. Changed org fee from 10 to 15% without notice, skimmed pot, lied about activating Thorim when 0 light was the plan, shady MS/OS pricing issues on gear.",
     url = "https://discord.com/channels/757975796249002118/1103656011161673728",  
     },
-	[202]= {
+	[197]= {
 	name = "Stallizedk",
 	aliases = "Brondoyle",
 	level = "3",
@@ -1665,7 +1638,7 @@ t.case_table = {
     description = "The Crime: GDKP pot scammer, DM threats",
     url = "https://discord.com/channels/757975796249002118/1108059665058775050",  
     },
-	[203]= {
+	[198]= {
 	name = "Signes",
 	level = "3",
 	faction = "Horde",
@@ -1673,7 +1646,7 @@ t.case_table = {
     description = "Shady raid leading, not showing pot totals or gold trades with gargul addon installed, then skims pots on players",
     url = "https://discord.com/channels/757975796249002118/1109844782345363557",  
     },
-	[204]= {
+	[199]= {
 	name = "Anyã",
 	level = "3",
 	faction = "Horde",
@@ -1681,7 +1654,7 @@ t.case_table = {
     description = "GDKP pot scammer",
     url = "https://discord.com/channels/757975796249002118/1111325256670515220",  
     },
-	[205]= {
+	[200]= {
 	name = "Nirimast",
 	level = "3",
 	faction = "Horde",
@@ -1689,7 +1662,7 @@ t.case_table = {
     description = "GDKP Pot Scammer",
     url = "https://discord.com/channels/757975796249002118/1117675488261980180",  
     },
-	[206]= {
+	[201]= {
 	name = "Dicing",
 	level = "3",
 	faction = "Horde",
@@ -1697,7 +1670,7 @@ t.case_table = {
     description = "GDKP taking from payouts, suspicious bids on gear, overall toxic behaviour, withholding cuts holding group hostage for a 7h run, sending taunting in game mails ect",
     url = "https://discord.com/channels/757975796249002118/1120151790193758288",  
     },
-	[207]= {
+	[202]= {
 	name = "Lawkx",
 	level = "2",
 	faction = "Horde",
@@ -1705,7 +1678,7 @@ t.case_table = {
     description = "Lead a Naxx 10, deleted an SR twice and tried to pull the boss without saying anything about doing so, then refused to honor an os roll and took wall of terror for themselves.",
     url = "https://discord.com/channels/757975796249002118/1116131332402204792",  
     },
-	[208]= {
+	[203]= {
 	name = "Haybuza",
 	level = "3",
 	faction = "Horde",
@@ -1713,7 +1686,7 @@ t.case_table = {
     description = "Logs off before paying remaining raid members out for GDKP after only paying three people",
     url = "https://discord.com/channels/757975796249002118/1121911367910305985",  
     },
-	[209]= {
+	[204]= {
 	name = "Zaravanthvia",
 	level = "3",
 	faction = "Horde",
@@ -1721,7 +1694,7 @@ t.case_table = {
     description = "rolls twice on an item and attempts to sell to winner when wrongly awarded",
     url = "https://discord.com/channels/757975796249002118/956696638829764677/1123649273800708206",  
     },
-	[210]= {
+	[205]= {
 	name = "Zetalock",
 	aliases = "linustian",
 	level = "3",
@@ -1730,7 +1703,7 @@ t.case_table = {
     description = "Sells someone a all-caster loot Naxx ticket run and refuses to give him Dying Curse. Takes it for himself instead.",
     url = "https://discord.com/channels/757975796249002118/1125648386880712724",  
     },
-	[208] = {
+	[206] = {
 	name = "Tigerbloodmd",
 	level = "3",
 	faction = "Horde",
