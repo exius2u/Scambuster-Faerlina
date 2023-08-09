@@ -2,7 +2,7 @@
 ## Title: Scambuster-Faerlina
 ## Notes: Extension for Scambuster packaging Faerlina realm data
 ## Author: Xius
-## Version: 1.0.0
+## Version: @project-version@
 ## DefaultState: enabled
 ## Dependencies: Scambuster
 
