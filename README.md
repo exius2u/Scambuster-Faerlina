@@ -6,9 +6,6 @@ Extension addon for Scambuster, packaging information on scammers and scam histo
 
 ![Golemagg_Banner](https://user-images.githubusercontent.com/52763122/212466261-6ec683c1-33a3-4d73-a127-565c020b0b96.gif)
 
-Available on Curseforge:
-- https://www.curseforge.com/wow/addons/scambuster-faerlina
-
 ## Getting Started
 
 This addon packages realm data on scammers to be used with the [Scambuster](https://github.com/hypernormalisation/Scambuster) addon framework.
