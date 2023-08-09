@@ -14,7 +14,6 @@ Available on Curseforge:
 This addon packages realm data on scammers to be used with the [Scambuster](https://github.com/hypernormalisation/Scambuster) addon framework.
 As such, it requires Scambuster to work:
 
-- https://www.curseforge.com/wow/addons/scambuster
 - https://github.com/hypernormalisation/Scambuster
 
 Once you install Scambuster-Golemagg alongside Scambuster, the game will alert you in real-time whenever you encounter a scammer.
