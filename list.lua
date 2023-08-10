@@ -1752,7 +1752,7 @@ t.case_table = {
 	level = "3",
 	faction = "Horde",
     category = "raid",
-    description = "Loot councils an SR run, refuses to give scale of fates to mage who won the roll because of "poor performance" and not being in discord, even though he claimed he wouldn't care if he wasn't on discord if his DPS was good",
+    description = "Loot councils an SR run, refuses to give scale of fates to mage who won the roll because of poor performance and not being in discord, even though he claimed he wouldn't care if he wasn't on discord if his DPS was good",
     url = "https://discord.com/channels/757975796249002118/1130871536098738196",  
     },
 	[212]= {
