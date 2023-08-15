@@ -1905,7 +1905,31 @@ t.case_table = {
     description = "Intentionally rolls on not needed MS trophy so another player would not have a chance to win",
     url = "https://discord.com/channels/757975796249002118/1138220760196989079",  
     },
-	[230] = {
+	[230]= {
+	name = "Strpur",
+	level = "2",
+	faction = "Horde",
+    category = "raid",
+    description = "The Crime: Runs MS>OS ToC25 pug and refuses to give out loot at the end until people pay him. Then tells the group it was a GDKP all along.",
+    url = "https://discord.com/channels/757975796249002118/1139020152285962280",  
+    },
+	[231]= {
+	name = "Trystaa",
+	level = "2",
+	faction = "Horde",
+    category = "raid",
+    description = "Ticket run scammer, takes buyer gold and logs off",
+    url = "https://discord.com/channels/757975796249002118/1140393509938004151",  
+    },
+	[232]= {
+	name = "Deathrune",
+	level = "2",
+	faction = "Horde",
+    category = "raid",
+    description = "False bidding on items, withholding raiders cuts, shady loot in GDKP",
+    url = "https://discord.com/channels/757975796249002118/1140686746850431127",  
+    },
+	[233] = {
 	name = "Tigerbloodmd",
 	level = "3",
 	faction = "Horde",
