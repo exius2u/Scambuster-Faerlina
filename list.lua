@@ -1969,7 +1969,7 @@ t.case_table = {
 	level = "3",
 	faction = "Horde",
     category = "raid",
-    description = "Kicked top performing player after last boss in ToC GDKP without a cut because he called the accused "braindead" after accused ignored a strat to kill a boss and blamed him for not doing his job properly.",
+    description = "Kicked top performing player after last boss in ToC GDKP without a cut because he called the accused 'braindead' after accused ignored a strat to kill a boss and blamed him for not doing his job properly.",
     url = "https://discord.com/channels/757975796249002118/1144609505930391772",  
     },
 	[238]= {
@@ -1990,7 +1990,7 @@ t.case_table = {
     },
 	[240]= {
 	name = "Sarveris",
-	aliases = "Incarcerated"
+	aliases = "Incarcerated",
 	level = "3",
 	faction = "Horde",
     category = "raid",
@@ -2031,7 +2031,7 @@ t.case_table = {
     },
 	[245]= {
 	name = "Xenzart",
-	aliases = "Schaleria"
+	aliases = "Schaleria",
 	level = "2",
 	faction = "Horde",
     category = "raid",
