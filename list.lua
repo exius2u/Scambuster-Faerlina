@@ -2227,7 +2227,7 @@ t.case_table = {
 	level = "2",
 	faction = "Horde",
     category = "raid",
-    description = "Removes pug at the end of a 3 SR run for "toxicity" right as his reserved loot is being rolled on. Shown that player was not toxic, but only questioning their unusual loot rules.",
+    description = "Removes pug at the end of a 3 SR run for toxicity right as his reserved loot is being rolled on. Shown that player was not toxic, but only questioning their unusual loot rules.",
     url = "https://discord.com/channels/757975796249002118/1155268064858865805",  
     },
 	[269]= {
